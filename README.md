@@ -1,1 +1,1 @@
-# COVID-Vaccination-DataVisualisation-main.github.io
+# VaccinationDataVisualisation.github.io
