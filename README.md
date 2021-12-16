@@ -1,1 +1,1 @@
-# COVID-Vaccination-DataVisualisation-main.github.io
+# Click on start.html to go to website
